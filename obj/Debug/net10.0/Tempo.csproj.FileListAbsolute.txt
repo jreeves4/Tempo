@@ -1,0 +1,14 @@
+/Users/jimmy/Code/Tempo/bin/Debug/net10.0/Tempo
+/Users/jimmy/Code/Tempo/bin/Debug/net10.0/Tempo.deps.json
+/Users/jimmy/Code/Tempo/bin/Debug/net10.0/Tempo.runtimeconfig.json
+/Users/jimmy/Code/Tempo/bin/Debug/net10.0/Tempo.dll
+/Users/jimmy/Code/Tempo/bin/Debug/net10.0/Tempo.pdb
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.AssemblyInfoInputs.cache
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.AssemblyInfo.cs
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.csproj.CoreCompileInputs.cache
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.dll
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/refint/Tempo.dll
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.pdb
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/Tempo.genruntimeconfig.cache
+/Users/jimmy/Code/Tempo/obj/Debug/net10.0/ref/Tempo.dll
